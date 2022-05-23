@@ -11,7 +11,7 @@
 ### Visualizing Cryptocurrencies Results
 #### 3D-Scatter plot with clusters
 <p align="center">
-    <img src="https://github.com/joZecodes/Cryptocurrencies/blob/main/3d%20plot%20with%20clusters.png"> 
+    <img src="https://github.com/joZecodes/Cryptocurrencies/blob/main/3d%20cluster.png"> 
 </p>
 
 <br><br>
