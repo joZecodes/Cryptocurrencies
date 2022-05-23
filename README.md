@@ -25,3 +25,4 @@
 
 ## Summary
 In order to determine each group's performance and potential interest to the investment bank's clients, the particular characteristics of each group need to be analyzed.
+
