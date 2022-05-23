@@ -4,7 +4,7 @@
 
 ### Clustering Cryptocurrencies using K-Means - Elbow Curve
 <p align="center">
-    <img src="(https://github.com/joZecodes/Cryptocurrencies/blob/main/Pictures/Elbow%20curve.png)"> 
+    <img src="[(https://github.com/joZecodes/Cryptocurrencies/blob/main/Pictures/Elbow%20curve.png)](https://github.com/joZecodes/Cryptocurrencies/blob/main/Elbow%20Curve.png)"> 
 </p>
 <br><br>
 
